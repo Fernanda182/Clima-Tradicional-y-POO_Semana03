@@ -34,7 +34,7 @@ El objetivo fue practicar ambos enfoques de programación: tradicional y orienta
 
 ## Archivos incluidos
 
-- `clima.py`: versión con funciones
-- `clima_poo.py`: versión con clases
+- `clima.py`: versión tradicional
+- `clima_poo.py`: versión POO
 
 ---
